@@ -41,8 +41,7 @@ export default function Dashboard(props: { disableCustomTheme?: boolean }) {
             backgroundColor: theme.vars
               ? `rgba(${theme.vars.palette.background.defaultChannel} / 1)`
               : alpha(theme.palette.background.default, 1),
-            // overflow: 'auto',
-            minWidth: 800
+            overflow: 'auto',
           })}
           
         >

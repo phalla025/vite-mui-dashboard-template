@@ -18,6 +18,7 @@ const mainListItems = [
   { text: 'Analytics', icon: <AnalyticsRoundedIcon /> },
   { text: 'Clients', icon: <PeopleRoundedIcon /> },
   { text: 'Tasks', icon: <AssignmentRoundedIcon /> },
+  { text: 'Work', icon: <AssignmentRoundedIcon /> },
 ];
 
 const secondaryListItems = [
