@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "allowJs": false,
+    "checkJs": false, // or true if you want type checking for JS
+    // "jsx": "react-jsx",
+  },
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
